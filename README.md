@@ -8,9 +8,9 @@ _Data Dragon_ is a package of files you can use for your projects about [_2XKO_]
 ## Additional contents in this repository
 This repository contains some additional files, not included in Data Dragon :
 
-- [Desktop](https://twitter.com/Play2XKO/status/1761088532461011109) and [mobile wallpapers](https://twitter.com/Play2XKO/status/1761092173037220334), released by Riot Games on [2XKO's official Twitter account](https://twitter.com/Play2XKO)
-- [Profile pictures](https://twitter.com/Play2XKO/status/1761092639678677404), released by Riot Games on [2XKO's official Twitter account](https://twitter.com/Play2XKO)
-- [Champions renders](https://twitter.com/Play2XKO/status/1761135229916582275), released by Riot Games on [2XKO's official Twitter account](https://twitter.com/Play2XKO)
+- Desktop and mobile wallpapers, released by Riot Games on [2XKO's official Twitter account](https://twitter.com/Play2XKO) and [2XKO's official website](https://2xko.riotgames.com)
+- Profile pictures, released by Riot Games on [2XKO's official Twitter account](https://twitter.com/Play2XKO) and [2XKO's official website](https://2xko.riotgames.com)
+- Champions renders, released by Riot Games on [2XKO's official Twitter account](https://twitter.com/Play2XKO) and [2XKO's official website](https://2xko.riotgames.com)
 - Game logo, downloaded from [2XKO's official website](https://2xko.riotgames.com) in maximum available quality
 - Game icon, downloaded from [2XKO's official website](https://2xko.riotgames.com) in maximum founded quality
 
